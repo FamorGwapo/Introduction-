@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Measurement Converter - famor</string>
+
+    <!--LABEL-->
+    <string name="title">Measurement Converter</string>
+    <stirng name="labelFrom">FROM:</stirng>
+    <stirng name="labelTo">TO:</stirng>
+    <string name="labelButton">Convert</string>
+    <string name="labelValue">Value:</string>
+    <string name="labelFrom" />
+
+</resources>
